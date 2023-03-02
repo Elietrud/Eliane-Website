@@ -32,8 +32,9 @@ p {
 }
 
 hr {
-    border-bottom: none;
-    border: dotted #EAF6F6 6px;
+    color: #EAF6F6;
+    border-style: none;
+    border-top: dotted;
     border-width: 10px;
     width: 4%;
     margin: 50px auto;
